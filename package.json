@@ -1,0 +1,20 @@
+{
+  "name": "discord-bot-usd",
+  "version": "1.0.0",
+  "description": "A discord bot to show usd variation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lednewcrk",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "discord.js": "^13.1.0",
+    "dotenv": "^10.0.0",
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {
+    "@types/axios": "^0.14.0"
+  }
+}

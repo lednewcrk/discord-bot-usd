@@ -1,5 +1,5 @@
 {
-  "name": "discord-bot-usd",
+  "name": "discord-bot-busd",
   "version": "1.0.0",
   "description": "A discord bot to show usd variation",
   "main": "index.js",
